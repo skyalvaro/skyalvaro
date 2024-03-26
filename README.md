@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/miralcode"><img src="./devcard.png" width="356" alt="Skyalvaro's Dev Card"/></a>
+<a href="https://app.daily.dev/miralcode"><img src="https://api.daily.dev/devcards/v2/y68Vlkv9xdN19EoAZdfcu.png?type=default&r=brp" width="356" alt="Alvaro Lopez Peiro's Dev Card"/></a>
 <!--
 **skyalvaro/skyalvaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
