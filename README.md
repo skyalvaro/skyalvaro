@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/miralcode"><img src="https://api.daily.dev/devcards/v2/y68Vlkv9xdN19EoAZdfcu.png?type=default&r=brp" width="356" alt="Alvaro Lopez Peiro's Dev Card"/></a>
+
 # 👨‍💻 Miralcode
 
 ¡Hola! Bienvenido a mi perfil de GitHub. Soy **Programador**, **Ingeniero Informático** y **Administrador de Sistemas** apasionado por la tecnología, el desarrollo de herramientas útiles y la mejora de la experiencia informática.
@@ -9,11 +11,14 @@
 - 💻 **Lenguajes y tecnologías favoritas**: 
   - **Frontend**: React, Next.js, TypeScript
   - **Backend**: Node.js, Python, C#, Java
-  - **Bases de datos y plataformas**: Supabase, WordPress
+  - **Bases de datos y plataformas**: Supabase, WordPress, Google Cloud, Azure
   - **Contenedores y automatización**: Docker, n8n
 
 - 🛠️ **Herramientas que utilizo**: 
   - VS Code, Docker, Plesk, Supabase, Vercel
+
+- 🔗 **APIs importantes con las que trabajo**:
+  - Meta API, Telegram API, OpenAI, Claude API, Ollama API
 
 - 🔐 **Pasatiempos**:
   - Ciberseguridad, montaje de ordenadores y servidores.
@@ -32,6 +37,20 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Meta API](https://img.shields.io/badge/Meta-4267B2?style=for-the-badge&logo=meta&logoColor=white)
+![Telegram API](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude-FF6F00?style=for-the-badge&logoColor=white)
+![Ollama API](https://img.shields.io/badge/Ollama-1A73E8?style=for-the-badge&logoColor=white)
+
+---
+
+## 📊 Estadísticas
+
+![Miralcode's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miralcode&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miralcode&layout=compact&theme=radical)
 
 ---
 
