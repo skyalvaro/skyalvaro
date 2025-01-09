@@ -1,4 +1,3 @@
-<a href="https://app.daily.dev/miralcode"><img src="https://api.daily.dev/devcards/v2/y68Vlkv9xdN19EoAZdfcu.png?type=default&r=brp" width="356" alt="Alvaro Lopez Peiro's Dev Card"/></a>
 # 👨‍💻 Miralcode
 
 ¡Hola! Bienvenido a mi perfil de GitHub. Soy **Programador**, **Ingeniero Informático** y **Administrador de Sistemas** apasionado por la tecnología, el desarrollo de herramientas útiles y la mejora de la experiencia informática.
