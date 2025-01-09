@@ -49,8 +49,8 @@
 
 ## 📊 Estadísticas
 
-![Miralcode's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miralcode&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miralcode&layout=compact&theme=radical)
+![SkyAlvaro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=skyalvaro&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skyalvaro&layout=compact&theme=radical)
 
 ---
 
