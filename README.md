@@ -54,8 +54,11 @@
 
 ---
 
-## 🌟 Inspiración
+[![trophy](https://github-profile-trophy.vercel.app/?username=skyalvaro&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=skyalvaro)](https://wakatime.com/@skyalvaro)
 
-✨ "Nunca dejes de aprender y mejorar, porque el mundo de la tecnología está lleno de posibilidades infinitas."
+---
+
+## 🌟 Inspiración
 
 ¡Gracias por visitar mi perfil! 🚀 Si quieres colaborar en algún proyecto o simplemente charlar sobre tecnología, no dudes en contactarme.
